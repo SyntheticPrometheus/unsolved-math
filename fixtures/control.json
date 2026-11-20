@@ -1,0 +1,5 @@
+{"items":[
+ {"title":"A proof of the cycle double cover conjecture by OpenAI: An exposition","year":2026,"doi":"10.48550/arxiv.2607.16356","cites":3,"expect":"candidate","abstract":"The cycle double cover conjecture states that every bridgeless graph has a list of cycles such that every edge is in exactly two of them. In July 2026, OpenAI announced a proof. This exposition presents the proof with slight modifications and fills in details so the argument can be checked."},
+ {"title":"Chromatic polynomials of planar graphs: a survey","year":2019,"doi":"10.0000/decoy","cites":12,"expect":"no","abstract":"We survey chromatic polynomials of planar graphs, their evaluation at roots of unity, and complexity results for computing the Tutte polynomial on graphs of bounded treewidth."},
+ {"title":"Partial results and open cases for cycle covers of bridgeless graphs","year":2019,"doi":"10.0000/negated","cites":12,"expect":"no","abstract":"We survey partial results and list the cases that remain open. We do not prove the cycle double cover conjecture; we only describe equivalent formulations and computational evidence for small graphs."}
+]}

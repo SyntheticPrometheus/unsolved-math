@@ -1,0 +1,5 @@
+{"id":"cdc-control","status":"control","terms":"cycle double cover conjecture proof","statement":"Every bridgeless graph has a list of cycles such that every edge lies in exactly two of them.","source":"arXiv 2607.16356 (resolution announced 2026-07)"}
+{"id":"erdos-straus","status":"open","terms":"Erdos-Straus conjecture 4/n unit fractions","statement":"For every integer n>1 there exist positive integers a,b,c with 4/n = 1/a + 1/b + 1/c.","source":"Erdos-Straus, open"}
+{"id":"union-closed","status":"open","terms":"union-closed sets conjecture Frankl","statement":"In every finite union-closed family of sets, some element belongs to at least half of the sets.","source":"Frankl, open"}
+{"id":"perfect-cuboid","status":"open","terms":"perfect cuboid problem integer edges space diagonal","statement":"There is no rectangular box with integer edges, face diagonals and space diagonal.","source":"open since Euler"}
+{"id":"hadamard","status":"open","terms":"Hadamard conjecture existence order 4k","statement":"A Hadamard matrix of order 4k exists for every positive integer k.","source":"smallest unknown order 668"}
