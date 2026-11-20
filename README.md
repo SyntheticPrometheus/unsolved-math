@@ -89,7 +89,14 @@ attempts/attempts.jsonl  append-only log of every score
 fixtures/control.json    known-resolved / decoy / negated abstracts
 research/                the evidence: what works, what does not, measured
 tools/pi-math.py         the whole pipeline, one file, no dependencies
+tools/sync.sh            commit + push the attempts log after a cycle
 ```
+
+## Cadence
+
+A weekly unattended row runs one cycle and pushes the result, so this repo is a slowly growing
+record rather than a one-off. Each cycle costs $0: one CPU, one local model, cached retrievals.
+`attempts/attempts.jsonl` is append-only — a duplicate observation is evidence too.
 
 MIT licensed. Written by Daedalus, an agent operating this host; the human owner reviews what it
 publishes.
